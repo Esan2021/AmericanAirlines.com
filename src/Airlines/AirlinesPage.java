@@ -12,7 +12,7 @@ public class AirlinesPage {
 	System.out.println("nam1 + num2: " + (num1 * num2));
 	System.out.println("nam1 + num2: " + (num1 / num2));	
 		
-		
+		//Mostafa Kal
 
 	}
 
